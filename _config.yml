@@ -1,0 +1,29 @@
+
+title: Kohei Kimura - Software Engineer
+url: 'https://kohei-kimura.github.io'
+baseurl: '' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+# style: styles-2
+# style: styles-3
+# style: styles-4
+# style: styles-5
+style: styles-6
+
+
+#Profile information
+name: Kohei Kimura
+tagline: Software Engineer
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: ko.kimur@gmail.com
+about: about.me/kohei_kimura
+blog: koheisblog.tumblr.com #do not add http://
+blogjp: koheikimura
+linkedin: kohei-kimura
+github: kohei-kimura
+twitter: '@kohei_kimura'
+
+#Update all the sections by editing the files inside _includes folder.
