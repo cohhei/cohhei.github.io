@@ -11,12 +11,8 @@
             <div class="contact-container container-block">
                 <ul class="list-unstyled contact-list">
 
-                    {% if site.blog %}
+                    {% if site.about %}
                     <li class="website"><i class="fa fa-user"></i><a href="http://{{site.about}}" target="_blank">{{site.about}}</a></li>
-                    {% endif %}
-
-                    {% if site.linkedin %}
-                    <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin}}</a></li>
                     {% endif %}
                     
                     {% if site.github %}
@@ -31,12 +27,20 @@
                      <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/@webjeda" target="_blank">@webjeda</a></li>
                     {% endif %}
                     
+                    {% if site.medium %}
+                    <li class="medium"><i class="fa fa-medium"></i><a href="https://medium.com/{{site.medium}}" target="_blank">{{site.medium}}</a></li>
+                    {% endif %}
+
                     {% if site.blog %}
                     <li class="website"><i class="fa fa-pencil"></i><a href="http://{{site.blog}}" target="_blank">{{site.blog}}</a></li>
                     {% endif %}
+
+                    {% if site.linkedin %}
+                    <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin}}</a></li>
+                    {% endif %}
                     
                     {% if site.blogjp %}
-                    <li class="website"><i class="fa fa-pencil"></i><a href="http://{{site.blogjp}}.hatenablog.com" target="_blank">{{site.blogjp}} (JP)</a></li>
+                    <li class="website"><i class="fa fa-pencil"></i><a href="http://{{site.blogjp}}.hatenablog.com" target="_blank">{{site.blogjp}}.hatena (JP)</a></li>
                     {% endif %}
                 </ul>
             </div><!--//contact-container-->

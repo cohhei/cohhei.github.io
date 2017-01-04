@@ -20,10 +20,10 @@ pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: ko.kimur@gmail.com
 about: about.me/kohei_kimura
-blog: koheisblog.tumblr.com #do not add http://
+# blog: koheisblog.tumblr.com #do not add http://
 blogjp: koheikimura
 linkedin: kohei-kimura
 github: kohei-kimura
 twitter: '@kohei_kimura'
-
+medium: '@kohei_kimura'
 #Update all the sections by editing the files inside _includes folder.
