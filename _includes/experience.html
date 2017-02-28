@@ -1,40 +1,19 @@
 <section class="section experiences-section">
                 <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
-
+                {% for job in site.data.experience %}
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h3 class="job-title">Software Engineer</h3>
-                            <div class="time">2016 - Present</div>
+                            <h3 class="job-title">{{ job.title }}</h3>
+                            <div class="time">{{ job.time }}</div>
                         </div><!--//upper-row-->
-                        <div class="company">IDC Frontier, Fukuoka</div>
+                        <div class="company">{{ job.company }}</div>
                     </div><!--//meta-->
                     <div class="details">
-                        <ul>
-                            <li>Developing IoT platform service. </li>
-                            <li>Evaluating, designing, and developing the service for IoT system developers. </li>
-                            <li>Designing with microservices. </li>
-                            <li>Languages: Node.js, Ruby, R, Go, and so on.
-                        </ul>
+                        {{ job.details }}
+                        <small>Keywords: {{ job.keywords }}</small>
                     </div><!--//details-->
                 </div><!--//item-->
-
-                <div class="item">
-                    <div class="meta">
-                        <div class="upper-row">
-                            <h3 class="job-title">Software Engineer</h3>
-                            <div class="time">2013 - 2016</div>
-                        </div><!--//upper-row-->
-                        <div class="company">IHI SCube, Yokohama</div>
-                    </div><!--//meta-->
-                    <div class="details">
-                        <ul>
-                            <li>Developing CAD automation tools.</li>
-                            <li>Designing, developing, and maintaining it for CAD users in heavy industory company.</li>
-                            <li>Languages: C, C++, C#.net</li>
-                        </ul>
-
-                    </div><!--//details-->
-                </div><!--//item-->
-
+                {% endfor %}
             </section><!--//section-->
+

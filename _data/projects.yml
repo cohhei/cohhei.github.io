@@ -1,0 +1,29 @@
+- title:  Yearbum
+  title-link: https://kohei-kimura.github.io/yearbum
+  tagline:  Easy and quick album editor with favorite photos in the year.
+  links:
+    - icon: github
+      url:  https://github.com/kohei-kimura/yearbum
+    - icon: medium
+      url:  https://medium.com/@kohei_kimura/developed-photo-album-web-app-with-react-js-615f944abb71#.byekwjv3m
+    - icon: pencil
+      url:  http://koheikimura.hatenablog.com/entry/2016/12/29/193000
+  keywords: React.js, GitHub Pages
+
+- title:  Slack Weather Notifier
+  title-link:   https://github.com/kohei-kimura/slack-weather-notifier
+  tagline:  A slack bot of weather notifier.
+  links:
+    - icon: github
+      url:  https://github.com/kohei-kimura/slack-weather-notifier
+    - icon: pencil
+      url:  http://koheikimura.hatenablog.com/entry/2016/02/07/142501
+  keywords: Ruby, Heroku, Slack bot
+
+- title:  LRU image cache
+  title-link:   https://github.com/kohei-kimura/lru-image-cache
+  tagline:  LRU image cache class with a maximum item count of 10.
+  links:
+    - icon: github
+      url:  https://github.com/kohei-kimura/lru-image-cache
+  keywords: Ruby, rubygems

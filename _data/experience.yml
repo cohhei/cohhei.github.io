@@ -1,0 +1,29 @@
+- title:    Software Engineer
+  time:     2016 - Present
+  company:  IDC Frontier, Fukuoka
+  details: |
+    <h4>Data Engineering</h4>
+    <p>
+      I joined the industry-university collaboration project using IoT technologies as a data engineer. I build and maintain a back-end system for data science by myself. The system gathers and collects data from IoT devices, stores it to TreasureData, and controls batch processings. It consists of multiple Docker containers and works on <a href="https://www.openshift.com/container-platform">OpenShift</a>, RedHat's container-based PaaS platform because frequent changes are required for the project. 
+    </p>
+    <h4>Developing IoT Platform</h4>
+    <p>
+      I am also a member of our new service, IoT platform development project. We are:
+    </p>
+    <ul>
+      <li>Developing IoT platform service.</li>
+      <li>Evaluating, designing, and developing the service for IoT system developers.</li>
+      <li>Designing with microservices.</li>
+    </ul>
+  keywords: Node.js, Ruby on Rails, R, Docker, kubernetes, OpenShift, fluentd, TreasureData, Mcroservices, IoT Platform, Data Engineering
+
+- title:    Software Engineer
+  time:     2013 - 2016
+  company:  IHI SCube, Yokohama
+  details: |
+    <h4>CAD automation tools</h4>
+    <ul>
+        <li>Developing CAD automation tools.</li>
+        <li>Designing, developing, and maintaining it for CAD users in heavy industory company.</li>
+    </ul>
+  keywords: C, C++, C#.net, CAD, NX/CAD
