@@ -10,7 +10,11 @@
                         <div class="company">{{ job.company }}</div>
                     </div><!--//meta-->
                     <div class="details">
-                        {{ job.details }}
+                        {% for detail in job.details %}
+                        <p>
+                            <b>{{ detail.title }}</b> - {{ detail.description }}
+                        </p>
+                        {% endfor %}
                         <small>Keywords: {{ job.keywords }}</small>
                     </div><!--//details-->
                 </div><!--//item-->
