@@ -1,1 +1,1 @@
-My resume: [https://kohei-kimura.github.io]()
+My resume: [https://kohei-kimura.github.io](https://kohei-kimura.github.io)
