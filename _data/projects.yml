@@ -1,3 +1,15 @@
+- title: stopho
+  title-link: https://github.com/kohei-kimura/stopho
+  tagline:  CLI tool to generate search URLs from stock photos web sites.
+  links:
+    - icon: github
+      url:  https://github.com/kohei-kimura/stopho
+    - icon: medium
+      url:  https://medium.com/@kohei_kimura/how-to-build-and-destoribute-cli-tool-in-15-minutes-with-golang-52db65109c00
+    - icon: linkedin
+      url:  https://www.slideshare.net/kkimura62/how-to-build-and-distribute-cli-tool-in-15-minutes-with-golang
+  keywords: Golang, CIL
+
 - title:  Yearbum
   title-link: https://kohei-kimura.github.io/yearbum
   tagline:  Easy and quick album editor with favorite photos in the year.
