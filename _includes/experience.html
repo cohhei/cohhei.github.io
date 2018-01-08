@@ -13,6 +13,11 @@
                         {% for detail in job.details %}
                         <p>
                             <b>{{ detail.title }}</b> - {{ detail.description }}
+                            <ul>
+                                {% for item in detail.list %}
+                                <li>{{ item }}</li>
+                                {% endfor %}
+                            </ul>
                         </p>
                         {% endfor %}
                         <small>Keywords: {{ job.keywords }}</small>

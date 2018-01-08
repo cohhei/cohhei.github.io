@@ -1,3 +1,25 @@
+- title: pdtable
+  title-link: https://github.com/kohei-kimura/pdtable
+  tagline: A Pndas.DataFrame-like class
+  links:
+    - icon: github
+      url: https://github.com/kohei-kimura/pdtable
+    - icon: diamond
+      url: https://rubygems.org/gems/pdtable
+    - icon: pencil
+      url: http://koheikimura.hatenablog.com/entry/2017/08/20/182046
+  keywords: Ruby, Rubygems, Pandas, CSV
+
+- title: Dummily
+  title-link: https://github.com/kohei-kimura/dummily
+  tagline: A REST API sample code with Elixir
+  links:
+    - icon: github
+      url: https://github.com/kohei-kimura/dummily
+    - icon: linkedin
+      url: https://www.slideshare.net/kkimura62/rest-api-with-elixir-with-maru
+  keywords: Elixir, Maru, REST API
+
 - title: stopho
   title-link: https://github.com/kohei-kimura/stopho
   tagline:  CLI tool to generate search URLs from stock photos web sites.

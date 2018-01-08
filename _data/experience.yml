@@ -1,30 +1,47 @@
+- title: Backend Software Developer
+  time: 2018 - present
+  company: Nulab, Fukuoka
+  details:
+    - title: API Development
+      description: Cacoo.com backend API development
+      list:
+        - Design and develop backend APIs with Go.
+        - Translate old APIs writtem by Java into Go.
+  keywords: Go, Java, API, AWS, Mcroservices
+
 - title:    R&D Software Engineer
-  time:     2016 - Present
+  time:     2016 - 2017
   company:  IDC Frontier, Fukuoka
   details:
-    - title: Data Engineering
-      description: I joined the industry-university collaboration project using IoT technologies as a data engineer. I build and maintain a back-end system by myself for data science. The system gathers and collects data from IoT devices, stores it to TreasureData, and controls batch processings. It consists of multiple Docker containers and works on <a href="https://www.openshift.com/container-platform">OpenShift</a>, RedHat's container-based PaaS platform because frequent changes are required for the project.
-    - title: Developing IoT Platform
-      description: |
-        <span>I am also a member of our new service, IoT platform development project. We are&#058;</span>
-        <ul>
-          <li>Developing IoT platform service.</li>
-          <li>Evaluating, designing, and developing the service for IoT system developers.</li>
-          <li>Designing with microservices.</li>
-        </ul>
-  keywords: Node.js, Ruby on Rails, R, Docker, kubernetes, OpenShift, fluentd, Embulk, TreasureData, Redash, Mcroservices, IoT Platform, Data Engineering
+    - title: Data Center Optimization
+      description: Machine learning for data center
+      list:
+        - Create machine learning models to predict power demands and PUE in IDC Frontier's data center.
+        - Research and choose Python machine learning libraries such as Numpy, Pandas, scikit-learn, and Jupyter Notebook.
+        - Data Cleaning and data visualization.
+        - Evaluate and choose machine learning algorithm such as Linear Regression, SVM, Random Forest, and Neural Network.
+        - Develop aplications using these models with Django.
+    - title: Data Engineering and IoT backend
+      description: The industry-university collaboration project using IoT technologies
+      list:
+        - Build and maintain a backend system that gathers and collects data from IoT devices, stores it to TreasureData, and controls batch processings.
+        - Develop on multmultiple Docker containers and <a href="https://www.openshift.com/container-platform">OpenShift</a>, RedHat's container-based PaaS platform.
+  keywords: Node.js, Ruby on Rails, R, Python, Pandas, scikit-learn, Django, Docker, kubernetes, OpenShift, fluentd, Embulk, TreasureData, Redash, Mcroservices
 
 - title:    Software Engineer
   time:     2013 - 2016
   company:  IHI SCube, Yokohama
   details: 
-    - title: CAD automation tools
-      description: |
-        <span>I worked at IHI SCube as a developer. My jobs were&#058;</span>
-        <ul>
-            <li>Developing CAD automation tools.</li>
-            <li>Designing, developing, and maintaining it for CAD users in heavy industory company.</li>
-        </ul>
+    - title: CAD development
+      description: automation tools for a shipbuilding
+      list:
+        - Develop CAD automation tools.
+        - Design, develop, and maintain it for CAD users in heavy industory company.
     - title: User analysis
-      description: I started a user analysis project by myself to visualize users' usage history of the CAD tools because we, developers were unable to know how many users used it and what tool was the most frequently used. I inserted a program to visualize those into the CAD tools, improved the developing and maintaining process, and reduced their cost.
+      description: Automation tool user analysis
+      list:
+        - Visualize and log usage history of the CAD tool users.
+        - Research number of users and the most frequently used tool.
+        - Insert a program to visualize those into the CAD tools.
+        - Improved the developing and maintaining process, and reduced their cost.
   keywords: C, C++, C#.net, CAD, NX/CAD
