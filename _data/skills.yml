@@ -1,13 +1,10 @@
-- title: Ruby
-  level: 100%
-
-- title: Node.js
-  level: 100%
-
 - title: Go
+  level: 99%
+  
+- title: Ruby
   level: 90%
 
-- title: C & C++
+- title: Node.js
   level: 90%
 
 - title: Docker & OpenShift
@@ -15,6 +12,9 @@
 
 - title: Python & Machine Learning
   level: 80%
+
+- title: C & C++
+  level: 65%
 
 - title: Elixir
   level: 65%
