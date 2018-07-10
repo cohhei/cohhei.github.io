@@ -1,9 +1,9 @@
 - title: pdtable
-  title-link: https://github.com/corhhey/pdtable
+  title-link: https://github.com/cohhei/pdtable
   tagline: A Pndas.DataFrame-like class
   links:
     - icon: github
-      url: https://github.com/corhhey/pdtable
+      url: https://github.com/cohhei/pdtable
     - icon: diamond
       url: https://rubygems.org/gems/pdtable
     - icon: pencil
@@ -11,53 +11,53 @@
   keywords: Ruby, Rubygems, Pandas, CSV
 
 - title: Dummily
-  title-link: https://github.com/corhhey/dummily
+  title-link: https://github.com/cohhei/dummily
   tagline: A REST API sample code with Elixir
   links:
     - icon: github
-      url: https://github.com/corhhey/dummily
+      url: https://github.com/cohhei/dummily
     - icon: linkedin
       url: https://www.slideshare.net/kkimura62/rest-api-with-elixir-with-maru
   keywords: Elixir, Maru, REST API
 
 - title: stopho
-  title-link: https://github.com/corhhey/stopho
+  title-link: https://github.com/cohhei/stopho
   tagline:  CLI tool to generate search URLs from stock photos web sites.
   links:
     - icon: github
-      url:  https://github.com/corhhey/stopho
+      url:  https://github.com/cohhei/stopho
     - icon: medium
-      url:  https://medium.com/@corhhey/how-to-build-and-destoribute-cli-tool-in-15-minutes-with-golang-52db65109c00
+      url:  https://medium.com/@cohhei/how-to-build-and-destoribute-cli-tool-in-15-minutes-with-golang-52db65109c00
     - icon: linkedin
       url:  https://www.slideshare.net/kkimura62/how-to-build-and-distribute-cli-tool-in-15-minutes-with-golang
   keywords: Golang, CIL
 
 - title:  Yearbum
-  title-link: https://corhhey.github.io/yearbum
+  title-link: https://cohhei.github.io/yearbum
   tagline:  Easy and quick album editor with favorite photos in the year.
   links:
     - icon: github
-      url:  https://github.com/corhhey/yearbum
+      url:  https://github.com/cohhei/yearbum
     - icon: medium
-      url:  https://medium.com/@corhhey/developed-photo-album-web-app-with-react-js-615f944abb71#.byekwjv3m
+      url:  https://medium.com/@cohhei/developed-photo-album-web-app-with-react-js-615f944abb71#.byekwjv3m
     - icon: pencil
       url:  http://koheikimura.hatenablog.com/entry/2016/12/29/193000
   keywords: React.js, GitHub Pages
 
 - title:  Slack Weather Notifier
-  title-link:   https://github.com/corhhey/slack-weather-notifier
+  title-link:   https://github.com/cohhei/slack-weather-notifier
   tagline:  A slack bot of weather notifier.
   links:
     - icon: github
-      url:  https://github.com/corhhey/slack-weather-notifier
+      url:  https://github.com/cohhei/slack-weather-notifier
     - icon: pencil
       url:  http://koheikimura.hatenablog.com/entry/2016/02/07/142501
   keywords: Ruby, Heroku, Slack bot
 
 - title:  LRU image cache
-  title-link:   https://github.com/corhhey/lru-image-cache
+  title-link:   https://github.com/cohhei/lru-image-cache
   tagline:  LRU image cache class with a maximum item count of 10.
   links:
     - icon: github
-      url:  https://github.com/corhhey/lru-image-cache
+      url:  https://github.com/cohhei/lru-image-cache
   keywords: Ruby, rubygems

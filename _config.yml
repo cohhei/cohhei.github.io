@@ -1,6 +1,6 @@
 
 title: Kohei Kimura - Software Engineer
-url: 'https://corhhey.github.io'
+url: 'https://cohhei.github.io'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -22,7 +22,7 @@ about: about.me/kohei_kimura
 # blog: koheisblog.tumblr.com #do not add http://
 blogjp: koheikimura
 linkedin: kohei-kimura
-github: corhhey
-twitter: '@corhhey'
-medium: '@corhhey'
+github: cohhei
+twitter: '@cohhei'
+medium: '@cohhei'
 #Update all the sections by editing the files inside _includes folder.
